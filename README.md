@@ -1,8 +1,12 @@
-# Lama - Watermark
-Shows your logo at your position what you want.
+# Information
+• Shows your logo at your position what you want.
 
-# Requirements
-- OneSync
+# Features
+• easy editable
+• optimized (0ms resmon)
+
+# Dependencies
+• OneSync
 
 # Installation
 1. Install all the requirements
